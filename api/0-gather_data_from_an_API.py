@@ -31,7 +31,5 @@ def main():
     for q in completed:
         print("\t {}".format(q))
 
-
 if __name__ == '__main__':
-    
     main()
